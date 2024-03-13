@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T00:56:29.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="F0s4yjc9nYQ-B4JGty4K" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T01:03:51.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="atUaLwquqTjlVrEhTGpV" version="24.0.5" type="github">
   <diagram name="Página-1" id="11imAW-jSskHxmemjPuw">
-    <mxGraphModel dx="723" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="280" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="LbJM9FnIJIDi3qJCjKD5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbJM9FnIJIDi3qJCjKD5-5" target="LbJM9FnIJIDi3qJCjKD5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LbJM9FnIJIDi3qJCjKD5-5" value="B = A % 2&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LbJM9FnIJIDi3qJCjKD5-5" value="R = A % 2&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LbJM9FnIJIDi3qJCjKD5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbJM9FnIJIDi3qJCjKD5-7" target="LbJM9FnIJIDi3qJCjKD5-9">
@@ -46,7 +46,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbJM9FnIJIDi3qJCjKD5-7" value="B = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LbJM9FnIJIDi3qJCjKD5-7" value="R = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="410" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LbJM9FnIJIDi3qJCjKD5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbJM9FnIJIDi3qJCjKD5-9" target="LbJM9FnIJIDi3qJCjKD5-14">
